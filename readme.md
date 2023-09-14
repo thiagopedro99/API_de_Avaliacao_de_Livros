@@ -142,6 +142,6 @@ Este projeto utiliza as seguintes dependências:
 - jsonwebtoken: Para autenticação baseada em token.
 - pg-promise: Um banco de dados Postgres do cliente Node.js.
 
-##Contribuindo
+###Contribuindo
 
-Sinta-se à vontade para contribuir com melhorias para esta API. Se você encontrar algum problema ou tiver sugestões, abra uma ***issue*** ou envie um ***pull request***.
+Sinta-se à vontade para contribuir com melhorias para esta API. Se você encontrar algum problema ou tiver sugestões, abra uma [issue](https://github.com/thiagopedro99/API_de_Avaliacao_de_Livros/issues) ou envie um [pull request](https://github.com/thiagopedro99/API_de_Avaliacao_de_Livros/pulls).
